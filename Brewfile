@@ -17,7 +17,6 @@ brew 'rbenv'
 brew 'spark'
 brew 'unrar'
 brew 'wget'
-brew 'youtube-dl'
 brew 'less'
 
 cask 'atom'
