@@ -3,6 +3,8 @@ cask_args appdir: '/Applications'
 tap 'caskroom/cask'
 tap 'homebrew/bundle'
 
+cask 'xquartz'
+
 brew 'ack'
 brew 'coreutils'
 brew 'go'
@@ -17,7 +19,6 @@ brew 'rbenv'
 brew 'spark'
 brew 'unrar'
 brew 'wget'
-brew 'less'
 
 cask 'atom'
 cask 'google-chrome'
