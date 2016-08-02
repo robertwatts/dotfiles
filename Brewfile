@@ -4,10 +4,13 @@ tap 'caskroom/cask'
 tap 'homebrew/bundle'
 
 cask 'xquartz'
+cask 'java'
 
 brew 'ack'
+brew 'jenv'
 brew 'coreutils'
 brew 'go'
+brew 'glide'
 brew 'grc'
 brew 'imagemagick'
 brew 'libcaca', args: ['with-imlib2']
@@ -19,6 +22,9 @@ brew 'rbenv'
 brew 'spark'
 brew 'unrar'
 brew 'wget'
+brew 'scala'
+brew 'sbt'
+brew 'consul'
 
 cask 'atom'
 cask 'google-chrome'

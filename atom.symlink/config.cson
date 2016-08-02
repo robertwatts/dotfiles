@@ -1,4 +1,7 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "da0349f8-b922-4d5e-b2de-6a2cdf663156"
   core:
     disabledPackages: [
       "background-tips"
@@ -26,6 +29,10 @@
     softWrapAtPreferredLineLength: true
   "go-plus":
     goPath: "/Users/rwatts/code/go"
+  linter:
+    showErrorPanel: false
+  "markdown-writer":
+    fileExtension: ".md"
   "release-notes":
     viewedVersion: "0.89.0"
   "spell-check":
